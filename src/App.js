@@ -1,25 +1,29 @@
-import logo from './logo.svg';
+import React, { useState, useEffect } from 'react';
+import Search from './Search.js';
+import Header from './Header.js';
 import './App.css';
 
-function App() {
+import Grid from '@material-ui/core/Grid';
+
+const App = () => {
+
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+    <div className="rootbox">
+      <h1 className="title">STAR WARS COMPARATOR</h1>
+      <Grid container spacing={3} justify="center">
+        <Grid item xs={2}>
+          <Grid><Header/></Grid>
+        </Grid>
+        <Grid item xs={3} className="mainbox">
+          <Grid><Search /></Grid>
+        </Grid>
+        <Grid item xs={3} className="mainbox">
+          <Grid><Search /></Grid>
+        </Grid>
+      </Grid>
     </div>
-  );
-}
+    
+  )
+} 
 
 export default App;
