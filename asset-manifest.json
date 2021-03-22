@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/starwarscomparator/static/css/main.df5d864f.chunk.css",
+    "main.js": "/starwarscomparator/static/js/main.67184e69.chunk.js",
+    "main.js.map": "/starwarscomparator/static/js/main.67184e69.chunk.js.map",
+    "runtime-main.js": "/starwarscomparator/static/js/runtime-main.472438cc.js",
+    "runtime-main.js.map": "/starwarscomparator/static/js/runtime-main.472438cc.js.map",
+    "static/css/2.ab75b8d7.chunk.css": "/starwarscomparator/static/css/2.ab75b8d7.chunk.css",
+    "static/js/2.1ea7a7ce.chunk.js": "/starwarscomparator/static/js/2.1ea7a7ce.chunk.js",
+    "static/js/2.1ea7a7ce.chunk.js.map": "/starwarscomparator/static/js/2.1ea7a7ce.chunk.js.map",
+    "static/js/3.41c732f1.chunk.js": "/starwarscomparator/static/js/3.41c732f1.chunk.js",
+    "static/js/3.41c732f1.chunk.js.map": "/starwarscomparator/static/js/3.41c732f1.chunk.js.map",
+    "index.html": "/starwarscomparator/index.html",
+    "static/css/2.ab75b8d7.chunk.css.map": "/starwarscomparator/static/css/2.ab75b8d7.chunk.css.map",
+    "static/css/main.df5d864f.chunk.css.map": "/starwarscomparator/static/css/main.df5d864f.chunk.css.map",
+    "static/js/2.1ea7a7ce.chunk.js.LICENSE.txt": "/starwarscomparator/static/js/2.1ea7a7ce.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.472438cc.js",
+    "static/css/2.ab75b8d7.chunk.css",
+    "static/js/2.1ea7a7ce.chunk.js",
+    "static/css/main.df5d864f.chunk.css",
+    "static/js/main.67184e69.chunk.js"
+  ]
+}
